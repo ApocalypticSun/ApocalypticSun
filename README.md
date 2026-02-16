@@ -34,3 +34,5 @@ I'm Grig, a mechatronics engineer based in Romania, focused on designing and dev
 - Blender
 
 I recently started documenting and sharing my projects, and I enjoy working in teams on complex, large-scale challenges.
+I hope my projects can be useful to others.
+**Fun fact:** I love games 🎮
