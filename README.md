@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I'm Grig, a mechatronics engineer based in Romania, focused on designing and developing projects for my master's program.
 
    🛠️ Tech Stack
+
 **Programming Languages**
 - Python
 - C#
